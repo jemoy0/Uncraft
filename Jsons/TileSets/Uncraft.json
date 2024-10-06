@@ -19,7 +19,7 @@
   "Plains+Hill2+Forest": ["Plains", "Hill2", "ForestPH"],
   "Tundra+Hill+Forest": ["Tundra", "Hill", "ForestTH"],
   "Tundra+Hill2+Forest": ["Tundra", "Hill2", "ForestTH"],
-  "Desert+HillD": ["Desert", "HillD"],
+  "Desert+Hill": ["Desert", "HillD"],
   "Plains+Hill+Jungle": ["Plains", "Hill", "JungleP"],
   
 

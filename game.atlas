@@ -1312,672 +1312,672 @@ TileSets/Uncraft/Tiles/Hill2
   orig: 196, 168
   offset: 0, 0
   index: -1
-TileSets/Uncraft/Tiles/Holy site
+TileSets/Uncraft/Tiles/HillD
   rotate: false
   xy: 4, 708
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
-TileSets/Uncraft/Tiles/Holy siteT
+TileSets/Uncraft/Tiles/Holy site
   rotate: false
   xy: 208, 884
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
-TileSets/Uncraft/Tiles/Horses
+TileSets/Uncraft/Tiles/Holy siteT
   rotate: false
   xy: 412, 1060
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
-TileSets/Uncraft/Tiles/Horses+Pasture
+TileSets/Uncraft/Tiles/Horses
   rotate: false
   xy: 616, 1236
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
-TileSets/Uncraft/Tiles/Horses+Pasture-Industrial era
+TileSets/Uncraft/Tiles/Horses+Pasture
   rotate: false
   xy: 820, 1412
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
-TileSets/Uncraft/Tiles/HutFarm
+TileSets/Uncraft/Tiles/Horses+Pasture-Industrial era
   rotate: false
   xy: 1024, 1588
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
-TileSets/Uncraft/Tiles/HutFarm-Atomic era
-  rotate: false
-  xy: 4, 532
-  size: 196, 168
-  orig: 196, 168
-  offset: 0, 0
-  index: -1
-TileSets/Uncraft/Tiles/HutFarm-Atomic era2
-  rotate: false
-  xy: 208, 708
-  size: 196, 168
-  orig: 196, 168
-  offset: 0, 0
-  index: -1
-TileSets/Uncraft/Tiles/HutFarm-Industrial era
-  rotate: false
-  xy: 412, 884
-  size: 196, 168
-  orig: 196, 168
-  offset: 0, 0
-  index: -1
-TileSets/Uncraft/Tiles/HutFarm-Industrial era2
-  rotate: false
-  xy: 616, 1060
-  size: 196, 168
-  orig: 196, 168
-  offset: 0, 0
-  index: -1
-TileSets/Uncraft/Tiles/HutFarm2
+TileSets/Uncraft/Tiles/HutFarm
   rotate: false
   xy: 1228, 1764
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
-TileSets/Uncraft/Tiles/HutFarmT
+TileSets/Uncraft/Tiles/HutFarm-Atomic era
+  rotate: false
+  xy: 208, 708
+  size: 196, 168
+  orig: 196, 168
+  offset: 0, 0
+  index: -1
+TileSets/Uncraft/Tiles/HutFarm-Atomic era2
+  rotate: false
+  xy: 412, 884
+  size: 196, 168
+  orig: 196, 168
+  offset: 0, 0
+  index: -1
+TileSets/Uncraft/Tiles/HutFarm-Industrial era
+  rotate: false
+  xy: 616, 1060
+  size: 196, 168
+  orig: 196, 168
+  offset: 0, 0
+  index: -1
+TileSets/Uncraft/Tiles/HutFarm-Industrial era2
   rotate: false
   xy: 820, 1236
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
-TileSets/Uncraft/Tiles/HutFarmT-Atomic era
+TileSets/Uncraft/Tiles/HutFarm2
   rotate: false
-  xy: 1228, 1588
+  xy: 4, 532
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
-TileSets/Uncraft/Tiles/HutFarmT-Atomic era2
-  rotate: false
-  xy: 1432, 1764
-  size: 196, 168
-  orig: 196, 168
-  offset: 0, 0
-  index: -1
-TileSets/Uncraft/Tiles/HutFarmT-Industrial era
-  rotate: false
-  xy: 4, 356
-  size: 196, 168
-  orig: 196, 168
-  offset: 0, 0
-  index: -1
-TileSets/Uncraft/Tiles/HutFarmT-Industrial era2
-  rotate: false
-  xy: 208, 532
-  size: 196, 168
-  orig: 196, 168
-  offset: 0, 0
-  index: -1
-TileSets/Uncraft/Tiles/HutFarmT2
+TileSets/Uncraft/Tiles/HutFarmT
   rotate: false
   xy: 1024, 1412
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
-TileSets/Uncraft/Tiles/Ice
+TileSets/Uncraft/Tiles/HutFarmT-Atomic era
+  rotate: false
+  xy: 1432, 1764
+  size: 196, 168
+  orig: 196, 168
+  offset: 0, 0
+  index: -1
+TileSets/Uncraft/Tiles/HutFarmT-Atomic era2
+  rotate: false
+  xy: 4, 356
+  size: 196, 168
+  orig: 196, 168
+  offset: 0, 0
+  index: -1
+TileSets/Uncraft/Tiles/HutFarmT-Industrial era
+  rotate: false
+  xy: 208, 532
+  size: 196, 168
+  orig: 196, 168
+  offset: 0, 0
+  index: -1
+TileSets/Uncraft/Tiles/HutFarmT-Industrial era2
   rotate: false
   xy: 412, 708
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
-TileSets/Uncraft/Tiles/Incense
+TileSets/Uncraft/Tiles/HutFarmT2
+  rotate: false
+  xy: 1228, 1588
+  size: 196, 168
+  orig: 196, 168
+  offset: 0, 0
+  index: -1
+TileSets/Uncraft/Tiles/Ice
   rotate: false
   xy: 616, 884
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
-TileSets/Uncraft/Tiles/Incense+Plantation
+TileSets/Uncraft/Tiles/Incense
   rotate: false
   xy: 820, 1060
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
-TileSets/Uncraft/Tiles/Iron
+TileSets/Uncraft/Tiles/Incense+Plantation
   rotate: false
   xy: 1024, 1236
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
-TileSets/Uncraft/Tiles/Ivory
+TileSets/Uncraft/Tiles/Iron
   rotate: false
   xy: 1228, 1412
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
-TileSets/Uncraft/Tiles/Ivory+Camp
+TileSets/Uncraft/Tiles/Ivory
   rotate: false
   xy: 1432, 1588
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
-TileSets/Uncraft/Tiles/Ivory+Camp-Industrial era
+TileSets/Uncraft/Tiles/Ivory+Camp
   rotate: false
   xy: 1636, 1764
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
-TileSets/Uncraft/Tiles/Ivory+Camp-Pillaged
+TileSets/Uncraft/Tiles/Ivory+Camp-Industrial era
   rotate: false
   xy: 4, 180
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
-TileSets/Uncraft/Tiles/JungleG
+TileSets/Uncraft/Tiles/Ivory+Camp-Pillaged
   rotate: false
   xy: 208, 356
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
-TileSets/Uncraft/Tiles/JungleGLow
+TileSets/Uncraft/Tiles/JungleG
   rotate: false
   xy: 412, 532
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
-TileSets/Uncraft/Tiles/JungleGUp
+TileSets/Uncraft/Tiles/JungleGLow
   rotate: false
   xy: 616, 708
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
-TileSets/Uncraft/Tiles/JungleP
+TileSets/Uncraft/Tiles/JungleGUp
   rotate: false
   xy: 820, 884
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
-TileSets/Uncraft/Tiles/JunglePLow
+TileSets/Uncraft/Tiles/JungleP
   rotate: false
   xy: 1024, 1060
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
-TileSets/Uncraft/Tiles/JunglePUp
+TileSets/Uncraft/Tiles/JunglePLow
   rotate: false
   xy: 1228, 1236
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
-TileSets/Uncraft/Tiles/Krakatoa
+TileSets/Uncraft/Tiles/JunglePUp
   rotate: false
   xy: 1432, 1412
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
-TileSets/Uncraft/Tiles/Lakes
+TileSets/Uncraft/Tiles/Krakatoa
   rotate: false
   xy: 1636, 1588
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
-TileSets/Uncraft/Tiles/Landmark
+TileSets/Uncraft/Tiles/Lakes
   rotate: false
   xy: 1840, 1764
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
+TileSets/Uncraft/Tiles/Landmark
+  rotate: false
+  xy: 4, 4
+  size: 196, 168
+  orig: 196, 168
+  offset: 0, 0
+  index: -1
 TileSets/Uncraft/Tiles/Landmark-Pillaged
-  rotate: false
-  xy: 4, 4
-  size: 196, 168
-  orig: 196, 168
-  offset: 0, 0
-  index: -1
-TileSets/Uncraft/Tiles/LandmarkT-Pillaged
-  rotate: false
-  xy: 4, 4
-  size: 196, 168
-  orig: 196, 168
-  offset: 0, 0
-  index: -1
-TileSets/Uncraft/Tiles/LandmarkT
   rotate: false
   xy: 208, 180
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
-TileSets/Uncraft/Tiles/Lumber mill
+TileSets/Uncraft/Tiles/LandmarkT-Pillaged
+  rotate: false
+  xy: 208, 180
+  size: 196, 168
+  orig: 196, 168
+  offset: 0, 0
+  index: -1
+TileSets/Uncraft/Tiles/LandmarkT
   rotate: false
   xy: 412, 356
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
-TileSets/Uncraft/Tiles/Lumber mill-Industrial era
+TileSets/Uncraft/Tiles/Lumber mill
   rotate: false
   xy: 616, 532
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
+TileSets/Uncraft/Tiles/Lumber mill-Industrial era
+  rotate: false
+  xy: 820, 708
+  size: 196, 168
+  orig: 196, 168
+  offset: 0, 0
+  index: -1
 TileSets/Uncraft/Tiles/Lumber mill-Pillaged
-  rotate: false
-  xy: 820, 708
-  size: 196, 168
-  orig: 196, 168
-  offset: 0, 0
-  index: -1
-TileSets/Uncraft/Tiles/Lumber millT-Pillaged
-  rotate: false
-  xy: 820, 708
-  size: 196, 168
-  orig: 196, 168
-  offset: 0, 0
-  index: -1
-TileSets/Uncraft/Tiles/Lumber millT
   rotate: false
   xy: 1024, 884
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
-TileSets/Uncraft/Tiles/Lumber millT-Industrial era
+TileSets/Uncraft/Tiles/Lumber millT-Pillaged
+  rotate: false
+  xy: 1024, 884
+  size: 196, 168
+  orig: 196, 168
+  offset: 0, 0
+  index: -1
+TileSets/Uncraft/Tiles/Lumber millT
   rotate: false
   xy: 1228, 1060
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
-TileSets/Uncraft/Tiles/Manufactory
+TileSets/Uncraft/Tiles/Lumber millT-Industrial era
   rotate: false
   xy: 1432, 1236
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
-TileSets/Uncraft/Tiles/Manufactory-Atomic era
+TileSets/Uncraft/Tiles/Manufactory
   rotate: false
   xy: 1636, 1412
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
-TileSets/Uncraft/Tiles/Manufactory-Industrial era
+TileSets/Uncraft/Tiles/Manufactory-Atomic era
   rotate: false
   xy: 1840, 1588
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
-TileSets/Uncraft/Tiles/ManufactoryT
+TileSets/Uncraft/Tiles/Manufactory-Industrial era
   rotate: false
   xy: 208, 4
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
-TileSets/Uncraft/Tiles/ManufactoryT-Atomic era
+TileSets/Uncraft/Tiles/ManufactoryT
   rotate: false
   xy: 412, 180
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
-TileSets/Uncraft/Tiles/ManufactoryT-Industrial era
+TileSets/Uncraft/Tiles/ManufactoryT-Atomic era
   rotate: false
   xy: 616, 356
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
-TileSets/Uncraft/Tiles/Marble
+TileSets/Uncraft/Tiles/ManufactoryT-Industrial era
   rotate: false
   xy: 820, 532
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
-TileSets/Uncraft/Tiles/Marble+Quarry
+TileSets/Uncraft/Tiles/Marble
   rotate: false
   xy: 1024, 708
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
-TileSets/Uncraft/Tiles/Marble+Quarry-Industrial era
+TileSets/Uncraft/Tiles/Marble+Quarry
   rotate: false
   xy: 1228, 884
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
+TileSets/Uncraft/Tiles/Marble+Quarry-Industrial era
+  rotate: false
+  xy: 1432, 1060
+  size: 196, 168
+  orig: 196, 168
+  offset: 0, 0
+  index: -1
 TileSets/Uncraft/Tiles/Marble+Quarry-Pillaged
-  rotate: false
-  xy: 1432, 1060
-  size: 196, 168
-  orig: 196, 168
-  offset: 0, 0
-  index: -1
-TileSets/Uncraft/Tiles/Marble+QuarryT-Pillaged
-  rotate: false
-  xy: 1432, 1060
-  size: 196, 168
-  orig: 196, 168
-  offset: 0, 0
-  index: -1
-TileSets/Uncraft/Tiles/Marble+QuarryT
   rotate: false
   xy: 1636, 1236
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
-TileSets/Uncraft/Tiles/Marble+QuarryT-Industrial era
+TileSets/Uncraft/Tiles/Marble+QuarryT-Pillaged
+  rotate: false
+  xy: 1636, 1236
+  size: 196, 168
+  orig: 196, 168
+  offset: 0, 0
+  index: -1
+TileSets/Uncraft/Tiles/Marble+QuarryT
   rotate: false
   xy: 1840, 1412
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
-TileSets/Uncraft/Tiles/Marsh
+TileSets/Uncraft/Tiles/Marble+QuarryT-Industrial era
   rotate: false
   xy: 412, 4
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
-TileSets/Uncraft/Tiles/Mine
+TileSets/Uncraft/Tiles/Marsh
   rotate: false
   xy: 616, 180
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
-TileSets/Uncraft/Tiles/Mine-Industrial era
+TileSets/Uncraft/Tiles/Mine
   rotate: false
   xy: 820, 356
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
-TileSets/Uncraft/Tiles/Mine-Pillaged
+TileSets/Uncraft/Tiles/Mine-Industrial era
   rotate: false
   xy: 1024, 532
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
-TileSets/Uncraft/Tiles/MineT
+TileSets/Uncraft/Tiles/Mine-Pillaged
   rotate: false
   xy: 1228, 708
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
-TileSets/Uncraft/Tiles/MineT-Industrial era
+TileSets/Uncraft/Tiles/MineT
   rotate: false
   xy: 1432, 884
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
-TileSets/Uncraft/Tiles/MineT-Pillaged
+TileSets/Uncraft/Tiles/MineT-Industrial era
   rotate: false
   xy: 1636, 1060
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
-TileSets/Uncraft/Tiles/Moai
+TileSets/Uncraft/Tiles/MineT-Pillaged
   rotate: false
   xy: 1840, 1236
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
-TileSets/Uncraft/Tiles/Moai-Pillaged
+TileSets/Uncraft/Tiles/Moai
   rotate: false
   xy: 616, 4
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
-TileSets/Uncraft/Tiles/Mount Fuji
+TileSets/Uncraft/Tiles/Moai-Pillaged
   rotate: false
   xy: 820, 180
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
-TileSets/Uncraft/Tiles/Mount Kailash
+TileSets/Uncraft/Tiles/Mount Fuji
   rotate: false
   xy: 1024, 356
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
-TileSets/Uncraft/Tiles/Mount Sinai
+TileSets/Uncraft/Tiles/Mount Kailash
   rotate: false
   xy: 1228, 532
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
+TileSets/Uncraft/Tiles/Mount Sinai
+  rotate: false
+  xy: 1432, 708
+  size: 196, 168
+  orig: 196, 168
+  offset: 0, 0
+  index: -1
 TileSets/Uncraft/Tiles/Mountain
-  rotate: false
-  xy: 1432, 708
-  size: 196, 168
-  orig: 196, 168
-  offset: 0, 0
-  index: -1
-TileSets/Uncraft/Tiles/Mountain2
-  rotate: false
-  xy: 1432, 708
-  size: 196, 168
-  orig: 196, 168
-  offset: 0, 0
-  index: -1
-TileSets/Uncraft/Tiles/Mountain-1
   rotate: false
   xy: 1636, 884
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
-TileSets/Uncraft/Tiles/Oasis
+TileSets/Uncraft/Tiles/Mountain2
+  rotate: false
+  xy: 1636, 884
+  size: 196, 168
+  orig: 196, 168
+  offset: 0, 0
+  index: -1
+TileSets/Uncraft/Tiles/Mountain-1
   rotate: false
   xy: 1840, 1060
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
-TileSets/Uncraft/Tiles/Ocean
+TileSets/Uncraft/Tiles/Oasis
   rotate: false
   xy: 820, 4
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
+TileSets/Uncraft/Tiles/Ocean
+  rotate: false
+  xy: 1024, 180
+  size: 196, 168
+  orig: 196, 168
+  offset: 0, 0
+  index: -1
 TileSets/Uncraft/Tiles/Offshore Platform
-  rotate: false
-  xy: 1024, 180
-  size: 196, 168
-  orig: 196, 168
-  offset: 0, 0
-  index: -1
-TileSets/Uncraft/Tiles/Oil+Offshore Platform
-  rotate: false
-  xy: 1024, 180
-  size: 196, 168
-  orig: 196, 168
-  offset: 0, 0
-  index: -1
-TileSets/Uncraft/Tiles/Oil
   rotate: false
   xy: 1228, 356
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
-TileSets/Uncraft/Tiles/Oil well
+TileSets/Uncraft/Tiles/Oil+Offshore Platform
+  rotate: false
+  xy: 1228, 356
+  size: 196, 168
+  orig: 196, 168
+  offset: 0, 0
+  index: -1
+TileSets/Uncraft/Tiles/Oil
   rotate: false
   xy: 1432, 532
+  size: 196, 168
+  orig: 196, 168
+  offset: 0, 0
+  index: -1
+TileSets/Uncraft/Tiles/Oil well
+  rotate: false
+  xy: 1636, 708
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
 TileSets/Uncraft/Tiles/Oil+Oil well
   rotate: false
-  xy: 1432, 532
+  xy: 1636, 708
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
 TileSets/Uncraft/Tiles/Oil well-Pillaged
   rotate: false
-  xy: 1636, 708
+  xy: 1840, 884
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
 TileSets/Uncraft/Tiles/Oil+Oil well-Pillaged
   rotate: false
-  xy: 1636, 708
+  xy: 1840, 884
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
 TileSets/Uncraft/Tiles/OilS
   rotate: false
-  xy: 1840, 884
+  xy: 1024, 4
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
 TileSets/Uncraft/Tiles/Old Faithful
   rotate: false
-  xy: 1024, 4
+  xy: 1228, 180
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
 TileSets/Uncraft/Tiles/Pasture
   rotate: false
-  xy: 1228, 180
+  xy: 1432, 356
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
 TileSets/Uncraft/Tiles/Pasture-Industrial era
   rotate: false
-  xy: 1432, 356
+  xy: 1636, 532
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
 TileSets/Uncraft/Tiles/Pearls
   rotate: false
-  xy: 1636, 532
+  xy: 1840, 708
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
 TileSets/Uncraft/Tiles/Plains
   rotate: false
-  xy: 1840, 708
+  xy: 1228, 4
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
 TileSets/Uncraft/Tiles/Plains2
   rotate: false
-  xy: 1840, 708
+  xy: 1228, 4
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
 TileSets/Uncraft/Tiles/Plains3
   rotate: false
-  xy: 1840, 708
+  xy: 1228, 4
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
 TileSets/Uncraft/Tiles/Plains+Hill+Fallout
   rotate: false
-  xy: 1636, 356
+  xy: 1840, 532
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
 TileSets/Uncraft/Tiles/Plains+Hill+Fallout2
   rotate: false
-  xy: 1840, 532
+  xy: 1432, 4
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
 TileSets/Uncraft/Tiles/Plantation
   rotate: false
-  xy: 1432, 4
+  xy: 1636, 180
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
 TileSets/Uncraft/Tiles/Polder
   rotate: false
-  xy: 1636, 180
+  xy: 1840, 356
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
 TileSets/Uncraft/Tiles/Polder-Industrial era
   rotate: false
-  xy: 1840, 356
+  xy: 1636, 4
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
 TileSets/Uncraft/Tiles/Polder-Pillaged
   rotate: false
-  xy: 1636, 4
-  size: 196, 168
-  orig: 196, 168
-  offset: 0, 0
-  index: -1
-TileSets/Uncraft/Tiles/Quarry
-  rotate: false
   xy: 1840, 180
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
-TileSets/Uncraft/Tiles/Quarry-Industrial era
+TileSets/Uncraft/Tiles/Quarry
   rotate: false
   xy: 1840, 4
   size: 196, 168
@@ -2000,14 +2000,14 @@ TileSets/Uncraft/Unused/Grassland+Hill2
   index: -1
 TileSets/Uncraft/Unused/Plains+Hill
   rotate: false
-  xy: 1228, 4
+  xy: 1432, 180
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
 TileSets/Uncraft/Unused/Plains+Hill2
   rotate: false
-  xy: 1432, 180
+  xy: 1636, 356
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
@@ -2020,1617 +2020,1582 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 Icons/Uncraft/CityStateIcons/Cultured
   rotate: false
-  xy: 1018, 589
+  xy: 760, 600
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/OtherIcons/HiddenTutorialTask
   rotate: false
-  xy: 1018, 589
+  xy: 760, 600
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/OtherIcons/Score
   rotate: false
-  xy: 1018, 589
+  xy: 760, 600
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/CityStateIcons/Maritime
   rotate: false
-  xy: 1402, 373
+  xy: 1624, 329
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/CityStateIcons/Mercantile
   rotate: false
-  xy: 1450, 805
+  xy: 1840, 329
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/CityStateIcons/Militaristic
   rotate: false
-  xy: 1450, 697
+  xy: 1516, 328
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/CityStateIcons/Religious
   rotate: false
-  xy: 1510, 49
+  xy: 1192, 158
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/ImprovementIcons/Academy
   rotate: false
-  xy: 119, 5
+  xy: 1787, 761
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/ImprovementIcons/Ancient ruins
   rotate: false
-  xy: 754, 214
+  xy: 4, 708
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/ImprovementIcons/Barbarian encampment
   rotate: false
-  xy: 802, 709
+  xy: 328, 708
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/ImprovementIcons/Camp
   rotate: false
-  xy: 877, 385
+  xy: 652, 708
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/ImprovementIcons/Cancel improvement order
   rotate: false
-  xy: 970, 277
+  xy: 760, 708
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/OtherIcons/Stop
   rotate: false
-  xy: 970, 277
+  xy: 760, 708
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/ImprovementIcons/Citadel
   rotate: false
-  xy: 820, 1237
+  xy: 1084, 698
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/ImprovementIcons/City center
   rotate: false
-  xy: 820, 913
+  xy: 1895, 653
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/ImprovementIcons/City ruins
   rotate: false
-  xy: 910, 805
+  xy: 1612, 652
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/ImprovementIcons/Customs house
   rotate: false
-  xy: 1036, 1237
+  xy: 868, 600
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/ImprovementIcons/Farm
   rotate: false
-  xy: 1144, 1129
+  xy: 328, 492
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/ImprovementIcons/Fishing Boats
   rotate: false
-  xy: 1144, 913
+  xy: 544, 492
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/ImprovementIcons/Fort
   rotate: false
-  xy: 1201, 481
+  xy: 760, 492
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/ImprovementIcons/Holy site
   rotate: false
-  xy: 1186, 49
+  xy: 1732, 437
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/ImprovementIcons/Landmark
   rotate: false
-  xy: 1342, 805
+  xy: 220, 384
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/ImprovementIcons/Lumber mill
   rotate: false
-  xy: 1294, 49
+  xy: 760, 384
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/ImprovementIcons/Manufactory
   rotate: false
-  xy: 1360, 1129
+  xy: 976, 374
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/ImprovementIcons/Mine
   rotate: false
-  xy: 1450, 589
+  xy: 1300, 314
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/ImprovementIcons/Moai
   rotate: false
-  xy: 1402, 265
+  xy: 1408, 314
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/ImprovementIcons/Offshore Platform
   rotate: false
-  xy: 1576, 1237
+  xy: 652, 276
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/ImprovementIcons/Oil well
   rotate: false
-  xy: 1792, 1237
+  xy: 868, 276
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/ImprovementIcons/Pasture
   rotate: false
-  xy: 1576, 1129
+  xy: 1084, 266
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/ImprovementIcons/Plantation
   rotate: false
-  xy: 1900, 1021
+  xy: 1408, 206
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/ImprovementIcons/Polder
   rotate: false
-  xy: 1576, 913
+  xy: 4, 168
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/ImprovementIcons/Quarry
   rotate: false
-  xy: 1558, 805
+  xy: 652, 168
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/ImprovementIcons/Railroad
   rotate: false
-  xy: 1510, 157
+  xy: 1084, 158
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/ImprovementIcons/Remove Fallout
   rotate: false
-  xy: 1774, 805
+  xy: 1732, 113
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/ImprovementIcons/Remove Forest
   rotate: false
-  xy: 1882, 805
+  xy: 1840, 113
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/ImprovementIcons/Remove Jungle
   rotate: false
-  xy: 1882, 805
+  xy: 1840, 113
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/ImprovementIcons/Remove Marsh
   rotate: false
-  xy: 1774, 698
+  xy: 1300, 99
   size: 100, 99
   orig: 100, 99
   offset: 0, 0
   index: -1
 Icons/Uncraft/ImprovementIcons/Remove Railroad
   rotate: false
-  xy: 1882, 697
+  xy: 1408, 98
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/ImprovementIcons/Remove Road
   rotate: false
-  xy: 1774, 590
+  xy: 4, 60
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/ImprovementIcons/Repair
   rotate: false
-  xy: 1666, 589
+  xy: 112, 60
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/ImprovementIcons/Road
   rotate: false
-  xy: 1633, 481
+  xy: 436, 60
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/NotificationIcons/EnhanceReligion
   rotate: false
-  xy: 1078, 265
+  xy: 1408, 530
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/NotificationIcons/FoundPantheon
   rotate: false
-  xy: 1078, 265
+  xy: 1408, 530
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/NotificationIcons/FoundReligion
   rotate: false
-  xy: 1078, 265
+  xy: 1408, 530
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/NotificationIcons/ReformReligion
   rotate: false
-  xy: 1078, 265
+  xy: 1408, 530
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/StatIcons/Faith
   rotate: false
-  xy: 1078, 265
+  xy: 1408, 530
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/NotificationIcons/Loading
   rotate: false
-  xy: 1294, 265
+  xy: 544, 384
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/NotificationIcons/Working
   rotate: false
-  xy: 1294, 265
+  xy: 544, 384
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/OtherIcons/Loading
   rotate: false
-  xy: 1294, 265
+  xy: 544, 384
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/NotificationIcons/PickConstruction
   rotate: false
-  xy: 1576, 1021
+  xy: 1840, 221
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/StatIcons/Production
   rotate: false
-  xy: 1576, 1021
+  xy: 1840, 221
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/NotificationIcons/PickTech
   rotate: false
-  xy: 1684, 1021
+  xy: 1516, 220
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/StatIcons/Science
   rotate: false
-  xy: 1684, 1021
+  xy: 1516, 220
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/OtherIcons/AirSweep
   rotate: false
-  xy: 335, 5
+  xy: 1396, 746
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/OtherIcons/Banner
   rotate: false
-  xy: 862, 106
+  xy: 220, 708
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/UnitTypeIcons/UnitTypes
   rotate: false
-  xy: 862, 106
+  xy: 220, 708
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/OtherIcons/Blockade
   rotate: false
-  xy: 616, 307
+  xy: 1396, 854
   size: 130, 130
   orig: 130, 130
   offset: 0, 0
   index: -1
 Icons/Uncraft/OtherIcons/Capital
   rotate: false
-  xy: 4, 4
+  xy: 1672, 760
   size: 107, 101
   orig: 107, 101
   offset: 0, 0
   index: -1
 Icons/Uncraft/OtherIcons/Checkmark
   rotate: false
-  xy: 970, 61
+  xy: 976, 698
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/NotificationIcons/NextTurn
   rotate: false
-  xy: 970, 61
+  xy: 976, 698
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/OtherIcons/Circle
   rotate: false
-  xy: 616, 631
+  xy: 1024, 806
   size: 178, 178
   orig: 178, 178
   offset: 0, 0
   index: -1
 Icons/Uncraft/OtherIcons/Cities
   rotate: false
-  xy: 820, 1129
+  xy: 1192, 698
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/OtherIcons/CityStatus
   rotate: false
-  xy: 910, 589
+  xy: 1408, 638
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/OtherIcons/Close
   rotate: false
-  xy: 985, 481
+  xy: 4, 600
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/OtherIcons/CrosshairB
   rotate: false
-  xy: 1018, 805
+  xy: 544, 600
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/OtherIcons/Diplomacy
   rotate: false
-  xy: 1036, 1021
+  xy: 1084, 590
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/OtherIcons/DiplomacyW
   rotate: false
-  xy: 1036, 913
+  xy: 1192, 590
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/OtherIcons/DisbandUnit
   rotate: false
-  xy: 1078, 373
+  xy: 1720, 545
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/OtherIcons/Espionage
   rotate: false
-  xy: 1078, 157
+  xy: 4, 492
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/NotificationIcons/MoveSpies
   rotate: false
-  xy: 1078, 157
+  xy: 4, 492
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/OtherIcons/Spy_White
   rotate: false
-  xy: 1078, 157
+  xy: 4, 492
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/OtherIcons/ExclamationMark
   rotate: false
-  xy: 1078, 49
+  xy: 112, 492
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/OtherIcons/Fire
   rotate: false
-  xy: 616, 46
+  xy: 1672, 869
   size: 115, 115
   orig: 115, 115
   offset: 0, 0
   index: -1
 Icons/Uncraft/OtherIcons/Keyboard
   rotate: false
-  xy: 1309, 481
+  xy: 112, 384
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/OtherIcons/Link
   rotate: false
-  xy: 1342, 697
+  xy: 328, 384
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/OtherIcons/Load
   rotate: false
-  xy: 1342, 589
+  xy: 436, 384
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/OtherIcons/MapEditor
   rotate: false
-  xy: 1360, 1021
+  xy: 1084, 374
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/OtherIcons/MenuIcon
   rotate: false
-  xy: 1417, 481
+  xy: 1732, 329
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/OtherIcons/Mods
   rotate: false
-  xy: 1402, 157
+  xy: 4, 276
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/OtherIcons/Multiplayer
   rotate: false
-  xy: 1402, 49
+  xy: 112, 276
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/OtherIcons/NationSwap
   rotate: false
-  xy: 1468, 1237
+  xy: 220, 276
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/OtherIcons/New
   rotate: false
-  xy: 1468, 1129
+  xy: 328, 276
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/OtherIcons/Notifications
   rotate: false
-  xy: 1468, 913
+  xy: 544, 276
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/OtherIcons/Options
   rotate: false
-  xy: 1900, 1237
+  xy: 976, 266
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/OtherIcons/Pencil
   rotate: false
-  xy: 1792, 1129
+  xy: 1624, 221
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/OtherIcons/Pentagon
   rotate: false
-  xy: 1900, 1129
+  xy: 1732, 221
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/OtherIcons/Pillage
   rotate: false
-  xy: 1792, 1021
+  xy: 1300, 206
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/OtherIcons/Policies
   rotate: false
-  xy: 1684, 913
+  xy: 112, 168
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/OtherIcons/Politics
   rotate: false
-  xy: 1792, 913
+  xy: 220, 168
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/NotificationIcons/WorldCongressVote
   rotate: false
-  xy: 1792, 913
+  xy: 220, 168
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/OtherIcons/Present
   rotate: false
-  xy: 1525, 481
+  xy: 544, 168
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/OtherIcons/Puppet
   rotate: false
-  xy: 739, 46
+  xy: 1795, 869
   size: 115, 115
   orig: 115, 115
   offset: 0, 0
   index: -1
 Icons/Uncraft/OtherIcons/Quest
   rotate: false
-  xy: 1558, 697
+  xy: 760, 168
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/OtherIcons/Question
   rotate: false
-  xy: 1558, 589
+  xy: 868, 168
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/OtherIcons/Quickstart
   rotate: false
-  xy: 1510, 265
+  xy: 976, 158
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/OtherIcons/Remove Heresy
   rotate: false
-  xy: 1666, 697
+  xy: 1516, 112
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/OtherIcons/Resources
   rotate: false
-  xy: 1882, 589
+  xy: 220, 60
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/OtherIcons/Resume
   rotate: false
-  xy: 1774, 482
+  xy: 328, 60
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/OtherIcons/Undo
   rotate: false
-  xy: 1774, 482
+  xy: 328, 60
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/OtherIcons/Scenarios
   rotate: false
-  xy: 1741, 374
+  xy: 652, 60
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/OtherIcons/Search
   rotate: false
-  xy: 1618, 373
+  xy: 760, 60
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/OtherIcons/SecretOptions
   rotate: false
-  xy: 1849, 373
+  xy: 868, 60
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/OtherIcons/Settings
   rotate: false
-  xy: 1726, 266
+  xy: 976, 50
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/OtherIcons/Shield
   rotate: false
-  xy: 1834, 265
+  xy: 1192, 50
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/OtherIcons/Sleep
   rotate: false
-  xy: 1942, 265
+  xy: 1840, 5
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/OtherIcons/Speaker
   rotate: false
-  xy: 1618, 49
+  xy: 1516, 4
   size: 100, 100
   orig: 100, 100
-  offset: 0, 0
-  index: -1
-Icons/Uncraft/OtherIcons/Spy
-  rotate: false
-  xy: 1942, 157
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-Icons/Uncraft/OtherIcons/Star
-  rotate: false
-  xy: 862, 4
-  size: 100, 94
-  orig: 100, 94
   offset: 0, 0
   index: -1
 Icons/Uncraft/OtherIcons/Triangle
   rotate: false
-  xy: 616, 445
+  xy: 1210, 806
   size: 178, 178
   orig: 178, 178
   offset: 0, 0
   index: -1
 Icons/Uncraft/ResourceIcons/Aluminum
   rotate: false
-  xy: 443, 5
+  xy: 1504, 746
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/ResourceIcons/Bananas
   rotate: false
-  xy: 862, 214
+  xy: 112, 708
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/ResourceIcons/Cattle
   rotate: false
-  xy: 970, 169
+  xy: 868, 708
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/ResourceIcons/Citrus
   rotate: false
-  xy: 820, 1021
+  xy: 1787, 653
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/ResourceIcons/Coal
   rotate: false
-  xy: 928, 1237
+  xy: 112, 600
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/ResourceIcons/Copper
   rotate: false
-  xy: 928, 1129
+  xy: 220, 600
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/ResourceIcons/Cotton
   rotate: false
-  xy: 928, 1021
+  xy: 328, 600
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/ResourceIcons/Crab
   rotate: false
-  xy: 928, 913
+  xy: 436, 600
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/ResourceIcons/Deer
   rotate: false
-  xy: 1036, 1129
+  xy: 976, 590
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/ResourceIcons/Dyes
   rotate: false
-  xy: 1126, 589
+  xy: 1300, 530
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/ResourceIcons/Fish
   rotate: false
-  xy: 1144, 1021
+  xy: 436, 492
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/ResourceIcons/Furs
   rotate: false
-  xy: 1234, 805
+  xy: 868, 492
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/ResourceIcons/Gems
   rotate: false
-  xy: 1234, 697
+  xy: 976, 482
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/ResourceIcons/Gold Ore
   rotate: false
-  xy: 1186, 265
+  xy: 1192, 482
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/ResourceIcons/Horses
   rotate: false
-  xy: 1252, 1237
+  xy: 1840, 437
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/ResourceIcons/Incense
   rotate: false
-  xy: 1252, 1129
+  xy: 1516, 436
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/ResourceIcons/Iron
   rotate: false
-  xy: 1252, 1021
+  xy: 1300, 422
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/ResourceIcons/Ivory
   rotate: false
-  xy: 1252, 913
+  xy: 1408, 422
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/ResourceIcons/Jewelry
   rotate: false
-  xy: 1294, 373
+  xy: 4, 384
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/ResourceIcons/Marble
   rotate: false
-  xy: 1360, 913
+  xy: 1192, 374
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/ResourceIcons/Oil
   rotate: false
-  xy: 1684, 1237
+  xy: 760, 276
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/ResourceIcons/Pearls
   rotate: false
-  xy: 1684, 1129
+  xy: 1192, 266
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/ResourceIcons/Porcelain
   rotate: false
-  xy: 1510, 373
+  xy: 436, 168
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/ResourceIcons/Salt
   rotate: false
-  xy: 1882, 481
+  xy: 544, 60
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/ResourceIcons/Sheep
   rotate: false
-  xy: 1618, 265
+  xy: 1084, 50
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/ResourceIcons/Silk
   rotate: false
-  xy: 1726, 158
+  xy: 1624, 5
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/ResourceIcons/Silver
   rotate: false
-  xy: 1618, 157
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-Icons/Uncraft/ResourceIcons/Spices
-  rotate: false
-  xy: 1834, 157
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-Icons/Uncraft/ResourceIcons/Stone
-  rotate: false
-  xy: 1834, 49
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-Icons/Uncraft/ResourceIcons/Sugar
-  rotate: false
-  xy: 1942, 49
+  xy: 1732, 5
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/StatIcons/Acquire
   rotate: false
-  xy: 227, 5
+  xy: 1895, 761
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/StatIcons/CityConnection
   rotate: false
-  xy: 616, 169
+  xy: 1534, 854
   size: 130, 130
   orig: 130, 130
   offset: 0, 0
   index: -1
 Icons/Uncraft/StatIcons/Culture
   rotate: false
-  xy: 1018, 697
+  xy: 652, 600
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/StatIcons/Food
   rotate: false
-  xy: 1186, 373
+  xy: 652, 492
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/StatIcons/Gold
   rotate: false
-  xy: 1234, 589
+  xy: 1084, 482
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/StatIcons/Happiness
   rotate: false
-  xy: 1186, 157
+  xy: 1624, 437
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/StatIcons/Malcontent
   rotate: false
-  xy: 1360, 1237
+  xy: 868, 384
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/StatIcons/Population
   rotate: false
-  xy: 1900, 913
+  xy: 328, 168
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/TileIcons/Worked
   rotate: false
-  xy: 1900, 913
+  xy: 328, 168
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/StatIcons/ReligiousStrength
   rotate: false
-  xy: 1666, 805
+  xy: 1624, 113
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/StatIcons/Resistance
   rotate: false
-  xy: 754, 322
+  xy: 1918, 869
   size: 115, 115
   orig: 115, 115
   offset: 0, 0
   index: -1
-Icons/Uncraft/StatIcons/Specialist
-  rotate: false
-  xy: 1726, 50
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
 Icons/Uncraft/TileIcons/Blockaded
   rotate: false
-  xy: 802, 601
+  xy: 436, 708
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/TileIcons/Buy
   rotate: false
-  xy: 802, 493
+  xy: 544, 708
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/TileIcons/CityCenter
   rotate: false
-  xy: 910, 697
+  xy: 1300, 638
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/TileIcons/Locked
   rotate: false
-  xy: 1294, 157
+  xy: 652, 384
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/TileIcons/NotWorked
   rotate: false
-  xy: 1468, 1021
+  xy: 436, 276
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/UniqueIcons/Fallback
   rotate: false
-  xy: 1144, 1237
+  xy: 220, 492
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/UnitTypeIcons/DomainAir
   rotate: false
-  xy: 1093, 481
+  xy: 1828, 545
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/UnitTypeIcons/DomainLand
   rotate: false
-  xy: 1126, 805
+  xy: 1936, 545
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/OtherIcons/Terrains
   rotate: false
-  xy: 1126, 805
+  xy: 1936, 545
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/UnitTypeIcons/DomainWater
   rotate: false
-  xy: 1126, 697
+  xy: 1516, 544
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
+TileSets/Uncraft/Tiles/Quarry-Industrial era
+  rotate: false
+  xy: 4, 1872
+  size: 196, 168
+  orig: 196, 168
+  offset: 0, 0
+  index: -1
 TileSets/Uncraft/Tiles/Quarry-Pillaged
   rotate: false
-  xy: 4, 1873
+  xy: 208, 1872
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
 TileSets/Uncraft/Tiles/QuarryT-Pillaged
   rotate: false
-  xy: 4, 1873
+  xy: 208, 1872
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
 TileSets/Uncraft/Tiles/QuarryT
   rotate: false
-  xy: 208, 1873
+  xy: 412, 1872
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
 TileSets/Uncraft/Tiles/QuarryT-Industrial era
   rotate: false
-  xy: 412, 1873
+  xy: 616, 1872
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
 TileSets/Uncraft/Tiles/Railroad-Pillaged
   rotate: false
-  xy: 616, 1873
+  xy: 820, 1872
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
 TileSets/Uncraft/Tiles/Road-Pillaged
   rotate: false
-  xy: 616, 1873
+  xy: 820, 1872
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
 TileSets/Uncraft/Tiles/River-Bottom
   rotate: false
-  xy: 820, 1873
+  xy: 1024, 1872
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
 TileSets/Uncraft/Tiles/River-BottomLeft
   rotate: false
-  xy: 1024, 1873
+  xy: 1228, 1872
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
 TileSets/Uncraft/Tiles/River-BottomRight
   rotate: false
-  xy: 1228, 1873
+  xy: 1432, 1872
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
 TileSets/Uncraft/Tiles/Rock of Gibraltar
   rotate: false
-  xy: 1432, 1873
+  xy: 1636, 1872
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
 TileSets/Uncraft/Tiles/RuinsD
   rotate: false
-  xy: 1636, 1873
+  xy: 1840, 1872
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
 TileSets/Uncraft/Tiles/RuinsG
   rotate: false
-  xy: 1840, 1873
+  xy: 4, 1696
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
 TileSets/Uncraft/Tiles/RuinsT
   rotate: false
-  xy: 4, 1697
+  xy: 208, 1696
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
 TileSets/Uncraft/Tiles/Salt
   rotate: false
-  xy: 4, 1521
+  xy: 412, 1696
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
 TileSets/Uncraft/Tiles/Sheep
   rotate: false
-  xy: 4, 1345
+  xy: 616, 1696
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
 TileSets/Uncraft/Tiles/Sheep+Pasture
   rotate: false
-  xy: 4, 1169
+  xy: 820, 1696
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
 TileSets/Uncraft/Tiles/Sheep+Pasture-Industrial era
   rotate: false
-  xy: 4, 993
+  xy: 1024, 1696
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
 TileSets/Uncraft/Tiles/Silk
   rotate: false
-  xy: 4, 817
+  xy: 1228, 1696
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
 TileSets/Uncraft/Tiles/Silk+Plantation
   rotate: false
-  xy: 4, 641
+  xy: 1432, 1696
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
 TileSets/Uncraft/Tiles/Silver
   rotate: false
-  xy: 4, 465
+  xy: 1636, 1696
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
 TileSets/Uncraft/Tiles/Snow
   rotate: false
-  xy: 4, 289
+  xy: 1840, 1696
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
 TileSets/Uncraft/Tiles/Snow+Hill
   rotate: false
-  xy: 412, 1697
+  xy: 412, 1520
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
 TileSets/Uncraft/Tiles/Snow+Hill+Fallout
   rotate: false
-  xy: 820, 1697
+  xy: 820, 1520
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
 TileSets/Uncraft/Tiles/Snow+Hill+Fallout2
   rotate: false
-  xy: 1024, 1697
+  xy: 1024, 1520
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
 TileSets/Uncraft/Tiles/Snow+Hill2
   rotate: false
-  xy: 616, 1697
+  xy: 616, 1520
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
 TileSets/Uncraft/Tiles/Snow2
   rotate: false
-  xy: 4, 113
+  xy: 4, 1520
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
 TileSets/Uncraft/Tiles/Snow3
   rotate: false
-  xy: 208, 1697
+  xy: 208, 1520
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
 TileSets/Uncraft/Tiles/Spices
   rotate: false
-  xy: 1228, 1697
+  xy: 1228, 1520
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
 TileSets/Uncraft/Tiles/Spices+Plantation
   rotate: false
-  xy: 1432, 1697
+  xy: 1432, 1520
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
 TileSets/Uncraft/Tiles/Sri Pada
   rotate: false
-  xy: 1636, 1697
+  xy: 1636, 1520
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
 TileSets/Uncraft/Tiles/Stone
   rotate: false
-  xy: 1840, 1697
+  xy: 1840, 1520
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
 TileSets/Uncraft/Tiles/Stone+Quarry
   rotate: false
-  xy: 208, 1521
+  xy: 4, 1344
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
 TileSets/Uncraft/Tiles/Stone+Quarry-Industrial era
   rotate: false
-  xy: 208, 1345
+  xy: 208, 1344
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
 TileSets/Uncraft/Tiles/Stone+Quarry-Pillaged
   rotate: false
-  xy: 208, 1169
+  xy: 412, 1344
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
 TileSets/Uncraft/Tiles/Stone+QuarryT-Pillaged
   rotate: false
-  xy: 208, 1169
+  xy: 412, 1344
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
 TileSets/Uncraft/Tiles/Stone+QuarryT
   rotate: false
-  xy: 208, 993
+  xy: 616, 1344
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
 TileSets/Uncraft/Tiles/Stone+QuarryT-Industrial era
   rotate: false
-  xy: 208, 817
+  xy: 820, 1344
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
 TileSets/Uncraft/Tiles/StoneD
   rotate: false
-  xy: 208, 641
+  xy: 1024, 1344
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
 TileSets/Uncraft/Tiles/StoneD+Quarry
   rotate: false
-  xy: 208, 465
+  xy: 1228, 1344
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
 TileSets/Uncraft/Tiles/StoneD+Quarry-Industrial era
   rotate: false
-  xy: 208, 289
+  xy: 1432, 1344
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
 TileSets/Uncraft/Tiles/StoneD+Quarry-Pillaged
   rotate: false
-  xy: 208, 113
+  xy: 1636, 1344
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
 TileSets/Uncraft/Tiles/Sugar
   rotate: false
-  xy: 412, 1521
+  xy: 1840, 1344
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
 TileSets/Uncraft/Tiles/Sugar+Plantation
   rotate: false
-  xy: 616, 1521
+  xy: 4, 1168
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
 TileSets/Uncraft/Tiles/Terrace farm
   rotate: false
-  xy: 820, 1521
+  xy: 208, 1168
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
 TileSets/Uncraft/Tiles/Trading post
   rotate: false
-  xy: 1024, 1521
+  xy: 412, 1168
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
 TileSets/Uncraft/Tiles/Trading post-Industrial era
   rotate: false
-  xy: 1228, 1521
+  xy: 616, 1168
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
 TileSets/Uncraft/Tiles/Trading post-Pillaged
   rotate: false
-  xy: 1432, 1521
+  xy: 820, 1168
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
 TileSets/Uncraft/Tiles/Trading postT-Pillaged
   rotate: false
-  xy: 1432, 1521
+  xy: 820, 1168
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
 TileSets/Uncraft/Tiles/Trading postT
   rotate: false
-  xy: 1636, 1521
+  xy: 1024, 1168
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
 TileSets/Uncraft/Tiles/Trading postT-Industrial era
   rotate: false
-  xy: 1840, 1521
+  xy: 1228, 1168
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
 TileSets/Uncraft/Tiles/Truffles
   rotate: false
-  xy: 412, 1345
+  xy: 1432, 1168
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
 TileSets/Uncraft/Tiles/Truffles+Camp
   rotate: false
-  xy: 412, 1169
+  xy: 1636, 1168
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
 TileSets/Uncraft/Tiles/Truffles+Camp-Industrial era
   rotate: false
-  xy: 412, 993
+  xy: 1840, 1168
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
 TileSets/Uncraft/Tiles/Truffles+CampT
   rotate: false
-  xy: 412, 817
+  xy: 4, 992
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
 TileSets/Uncraft/Tiles/Truffles+CampT-Industrial era
   rotate: false
-  xy: 412, 641
+  xy: 208, 992
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
 TileSets/Uncraft/Tiles/Tundra
   rotate: false
-  xy: 412, 465
+  xy: 412, 992
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
 TileSets/Uncraft/Tiles/Tundra2
   rotate: false
-  xy: 412, 465
+  xy: 412, 992
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
 TileSets/Uncraft/Tiles/Tundra3
   rotate: false
-  xy: 412, 465
+  xy: 412, 992
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
 TileSets/Uncraft/Tiles/Tundra+Hill+Fallout
   rotate: false
-  xy: 616, 1345
+  xy: 1024, 992
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
 TileSets/Uncraft/Tiles/Tundra+Hill+Fallout2
   rotate: false
-  xy: 820, 1345
+  xy: 1228, 992
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
 TileSets/Uncraft/Tiles/Uluru
   rotate: false
-  xy: 1024, 1345
+  xy: 1432, 992
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
 TileSets/Uncraft/Tiles/Uranium
   rotate: false
-  xy: 1228, 1345
+  xy: 1636, 992
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
 TileSets/Uncraft/Tiles/Whales
   rotate: false
-  xy: 1432, 1345
+  xy: 1840, 992
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
 TileSets/Uncraft/Tiles/Whales+Fishing Boats
   rotate: false
-  xy: 1636, 1345
+  xy: 4, 816
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
 TileSets/Uncraft/Tiles/Whales+Fishing Boats-Industrial era
   rotate: false
-  xy: 1840, 1345
+  xy: 208, 816
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
 TileSets/Uncraft/Tiles/Wheat
   rotate: false
-  xy: 616, 1169
+  xy: 412, 816
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
 TileSets/Uncraft/Tiles/Wine
   rotate: false
-  xy: 616, 993
+  xy: 616, 816
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
 TileSets/Uncraft/Tiles/Wine+Plantation
   rotate: false
-  xy: 616, 817
+  xy: 820, 816
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
 TileSets/Uncraft/Unused/Tundra+Hill
   rotate: false
-  xy: 412, 289
+  xy: 616, 992
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
   index: -1
 TileSets/Uncraft/Unused/Tundra+Hill2
   rotate: false
-  xy: 412, 113
+  xy: 820, 992
   size: 196, 168
   orig: 196, 168
   offset: 0, 0
@@ -3643,371 +3608,413 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 Icons/Uncraft/EmojiIcons/Automate
   rotate: false
-  xy: 1008, 200
+  xy: 1970, 202
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 Icons/Uncraft/EmojiIcons/Culture
   rotate: false
-  xy: 1182, 200
+  xy: 545, 94
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 Icons/Uncraft/EmojiIcons/Death
   rotate: false
-  xy: 1240, 200
+  xy: 603, 94
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 Icons/Uncraft/EmojiIcons/Faith
   rotate: false
-  xy: 1298, 200
+  xy: 661, 94
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 Icons/Uncraft/EmojiIcons/Food
   rotate: false
-  xy: 1356, 200
+  xy: 719, 94
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 Icons/Uncraft/EmojiIcons/Gold
   rotate: false
-  xy: 1472, 200
+  xy: 835, 94
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 Icons/Uncraft/EmojiIcons/Great Artist
   rotate: false
-  xy: 1530, 200
+  xy: 893, 94
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 Icons/Uncraft/EmojiIcons/Great Engineer
   rotate: false
-  xy: 1588, 200
+  xy: 951, 94
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 Icons/Uncraft/EmojiIcons/Great General
   rotate: false
-  xy: 1646, 200
+  xy: 1009, 94
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 Icons/Uncraft/EmojiIcons/Great Merchant
   rotate: false
-  xy: 1704, 200
+  xy: 1067, 94
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 Icons/Uncraft/EmojiIcons/Great Scientist
   rotate: false
-  xy: 1762, 200
+  xy: 1125, 94
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 Icons/Uncraft/EmojiIcons/Happiness
   rotate: false
-  xy: 1820, 200
+  xy: 1183, 94
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 Icons/Uncraft/EmojiIcons/Production
   rotate: false
-  xy: 818, 136
+  xy: 1763, 94
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 Icons/Uncraft/EmojiIcons/Science
   rotate: false
-  xy: 992, 142
+  xy: 278, 21
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 Icons/Uncraft/EmojiIcons/Turn
   rotate: false
-  xy: 1108, 142
+  xy: 394, 36
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 Icons/Uncraft/ImprovementIcons/Terrace farm
   rotate: false
-  xy: 4, 42
+  xy: 544, 152
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/ImprovementIcons/Trading post
   rotate: false
-  xy: 112, 42
+  xy: 760, 152
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/NotificationIcons/PickPolicy
   rotate: false
-  xy: 1306, 159
+  xy: 500, 53
   size: 33, 33
   orig: 33, 33
   offset: 0, 0
   index: -1
 Icons/Uncraft/OtherIcons/Aircraft
   rotate: false
-  xy: 892, 200
+  xy: 1912, 202
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 Icons/Uncraft/OtherIcons/ArrowRight
   rotate: false
-  xy: 950, 200
+  xy: 371, 94
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 Icons/Uncraft/NotificationIcons/MoveAutomatedUnits
   rotate: false
-  xy: 950, 200
+  xy: 371, 94
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 Icons/Uncraft/NotificationIcons/NextUnit
   rotate: false
-  xy: 950, 200
+  xy: 371, 94
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 Icons/Uncraft/StatIcons/Movement
   rotate: false
-  xy: 950, 200
+  xy: 371, 94
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 Icons/Uncraft/OtherIcons/BackArrow
   rotate: false
-  xy: 1066, 200
+  xy: 429, 94
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 Icons/Uncraft/OtherIcons/Camera
   rotate: false
-  xy: 826, 45
+  xy: 52, 11
   size: 25, 25
   orig: 25, 25
   offset: 0, 0
   index: -1
 Icons/Uncraft/OtherIcons/CityState
   rotate: false
-  xy: 1124, 200
+  xy: 487, 94
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 Icons/Uncraft/OtherIcons/ForwardArrow
   rotate: false
-  xy: 1414, 200
+  xy: 777, 94
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 Icons/Uncraft/OtherIcons/Improvements
   rotate: false
-  xy: 1878, 200
+  xy: 1241, 94
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 Icons/Uncraft/OtherIcons/LockSmall
   rotate: false
-  xy: 1994, 200
+  xy: 1357, 94
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 Icons/Uncraft/OtherIcons/Nations
   rotate: false
-  xy: 768, 20
+  xy: 1647, 94
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 Icons/Uncraft/OtherIcons/Pause
   rotate: false
-  xy: 801, 78
+  xy: 1705, 94
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
+Icons/Uncraft/OtherIcons/Spy
+  rotate: false
+  xy: 112, 152
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+Icons/Uncraft/OtherIcons/Star
+  rotate: false
+  xy: 112, 50
+  size: 100, 94
+  orig: 100, 94
+  offset: 0, 0
+  index: -1
 Icons/Uncraft/OtherIcons/Swap
   rotate: false
-  xy: 4, 150
+  xy: 436, 152
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/OtherIcons/Timer
   rotate: false
-  xy: 112, 150
+  xy: 652, 152
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/OtherIcons/Turn right
   rotate: false
-  xy: 220, 42
+  xy: 976, 152
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/OtherIcons/Tyrannosaurus
   rotate: false
-  xy: 328, 150
+  xy: 1084, 152
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/OtherIcons/WLTKD
   rotate: false
-  xy: 652, 77
+  xy: 220, 79
   size: 83, 65
   orig: 83, 65
   offset: 0, 0
   index: -1
 Icons/Uncraft/OtherIcons/Wait
   rotate: false
-  xy: 436, 150
+  xy: 1300, 152
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/OtherIcons/Wonders
   rotate: false
-  xy: 652, 150
+  xy: 1732, 152
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/OtherIcons/whiteDot
   rotate: false
-  xy: 859, 127
+  xy: 1898, 187
   size: 1, 1
   orig: 1, 1
   offset: 0, 0
   index: -1
+Icons/Uncraft/ResourceIcons/Spices
+  rotate: false
+  xy: 4, 44
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+Icons/Uncraft/ResourceIcons/Stone
+  rotate: false
+  xy: 220, 152
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+Icons/Uncraft/ResourceIcons/Sugar
+  rotate: false
+  xy: 328, 152
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 Icons/Uncraft/ResourceIcons/Truffles
   rotate: false
-  xy: 220, 150
+  xy: 868, 152
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/ResourceIcons/Uranium
   rotate: false
-  xy: 328, 42
+  xy: 1192, 152
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/ResourceIcons/Whales
   rotate: false
-  xy: 436, 42
+  xy: 1408, 152
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/ResourceIcons/Wheat
   rotate: false
-  xy: 544, 150
+  xy: 1516, 152
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/ResourceIcons/Wine
   rotate: false
-  xy: 544, 42
+  xy: 1624, 152
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 Icons/Uncraft/StatIcons/InterceptRange
   rotate: false
-  xy: 1936, 200
+  xy: 1299, 94
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 Icons/Uncraft/StatIcons/Range
   rotate: false
-  xy: 876, 142
+  xy: 1840, 138
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 Icons/Uncraft/StatIcons/RangedStrength
   rotate: false
-  xy: 934, 142
+  xy: 220, 21
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
+Icons/Uncraft/StatIcons/Specialist
+  rotate: false
+  xy: 4, 152
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 Icons/Uncraft/StatIcons/Strength
   rotate: false
-  xy: 1050, 142
+  xy: 336, 36
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 Icons/Uncraft/TileIcons/MapOverlayToggleMovement
   rotate: false
-  xy: 760, 136
+  xy: 1415, 94
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 Icons/Uncraft/TileIcons/MapOverlayToggleResources
   rotate: false
-  xy: 743, 78
+  xy: 1473, 94
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 Icons/Uncraft/TileIcons/MapOverlayToggleWorkedTiles
   rotate: false
-  xy: 652, 19
+  xy: 1531, 94
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 Icons/Uncraft/TileIcons/MapOverlayToggleYields
   rotate: false
-  xy: 710, 19
+  xy: 1589, 94
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
 Skins/Uncraft/checkbox
   rotate: false
-  xy: 1386, 161
+  xy: 580, 55
   size: 31, 31
   split: 0, 0, 0, 0
   orig: 31, 31
@@ -4015,7 +4022,7 @@ Skins/Uncraft/checkbox
   index: -1
 Skins/Uncraft/checkbox-pressed
   rotate: false
-  xy: 1347, 161
+  xy: 541, 55
   size: 31, 31
   split: 0, 0, 0, 0
   orig: 31, 31
@@ -4023,7 +4030,7 @@ Skins/Uncraft/checkbox-pressed
   index: -1
 Skins/Uncraft/rectangleWithOutline
   rotate: false
-  xy: 743, 139
+  xy: 2028, 249
   size: 3, 3
   split: 0, 0, 0, 0
   orig: 3, 3
@@ -4031,7 +4038,7 @@ Skins/Uncraft/rectangleWithOutline
   index: -1
 Skins/Uncraft/roundedEdgeRectangle
   rotate: false
-  xy: 832, 200
+  xy: 311, 94
   size: 52, 50
   split: 19, 20, 19, 21
   pad: 12, 13, 7, 7
@@ -4040,7 +4047,7 @@ Skins/Uncraft/roundedEdgeRectangle
   index: -1
 Skins/Uncraft/roundedEdgeRectangle-mid
   rotate: false
-  xy: 1260, 154
+  xy: 158, 4
   size: 38, 38
   split: 17, 17, 15, 15
   pad: 17, 17, -1, -1
@@ -4049,7 +4056,7 @@ Skins/Uncraft/roundedEdgeRectangle-mid
   index: -1
 Skins/Uncraft/roundedEdgeRectangle-mid-border
   rotate: false
-  xy: 1214, 154
+  xy: 112, 4
   size: 38, 38
   split: 18, 18, 18, 18
   orig: 38, 38
@@ -4057,7 +4064,7 @@ Skins/Uncraft/roundedEdgeRectangle-mid-border
   index: -1
 Skins/Uncraft/roundedEdgeRectangle-small
   rotate: false
-  xy: 52, 10
+  xy: 336, 4
   size: 24, 24
   split: 10, 10, 10, 10
   pad: 10, 10, 2, 2
@@ -4066,7 +4073,7 @@ Skins/Uncraft/roundedEdgeRectangle-small
   index: -1
 Skins/Uncraft/roundedTopEdgeRectangle-small
   rotate: false
-  xy: 1425, 180
+  xy: 619, 74
   size: 24, 12
   split: 10, 10, 10, 0
   pad: 10, 10, -1, -1
@@ -4075,7 +4082,7 @@ Skins/Uncraft/roundedTopEdgeRectangle-small
   index: -1
 Skins/Uncraft/roundedTopEdgeRectangle-small-border
   rotate: false
-  xy: 1166, 142
+  xy: 452, 36
   size: 24, 12
   split: 10, 10, 10, 0
   orig: 24, 12
@@ -4083,7 +4090,7 @@ Skins/Uncraft/roundedTopEdgeRectangle-small-border
   index: -1
 Skins/Uncraft/select-box
   rotate: false
-  xy: 1166, 162
+  xy: 452, 56
   size: 40, 30
   split: 7, 9, 7, 7
   orig: 40, 30
@@ -4091,7 +4098,7 @@ Skins/Uncraft/select-box
   index: -1
 Skins/Uncraft/select-box-pressed
   rotate: false
-  xy: 4, 4
+  xy: 4, 6
   size: 40, 30
   split: 7, 9, 7, 7
   orig: 40, 30
@@ -4099,7 +4106,7 @@ Skins/Uncraft/select-box-pressed
   index: -1
 TileSets/Uncraft/Crosshair
   rotate: false
-  xy: 760, 194
+  xy: 1840, 196
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
